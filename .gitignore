@@ -1,0 +1,7 @@
+node_modules/
+dist/
+frontend/public/mediapipe/
+data/
+__pycache__/
+*.pyc
+assets/
